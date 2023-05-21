@@ -1,7 +1,49 @@
-Hi there, I'm Elis, but online I go by Spelis. I'm a 13-year-old self-taught Python developer from northern Sweden. My primary interest lies in developing Python tools and programs, and I enjoy the endless possibilities that programming offers.
+<h2 align="left">Hi 👋! My name is Elis Eriksson and I'm a front-end and python developer, from Sweden.</h2>
 
-In addition to coding, I love snowboarding and spend a lot of my free time on the slopes. I also enjoy spending time watching YouTube and Twitch, as well as hanging out with my friends and playing video games.
+###
 
-Overall, I'm a driven and curious individual who is always looking to learn and grow, whether it's in the world of programming or on the slopes.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spelis123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Spelis123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelis123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-(ChatGPT wrote this as i do not enjoy writing) 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://youtube.com/@spelis123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=ff8080&logoColor=white&labelColor=FF0000&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://twitch.tv/spelis123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=b27fff&logoColor=white&labelColor=9146FF&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/FxRmZfQnRs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=a2aed8&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:Spelis@duck.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=&color=d1a29c&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Spelis123/Spelis123/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/marioelis">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
