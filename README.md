@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Spelis123/Spelis123/output/snake.svg" alt="Snake animation" />
-
-###
